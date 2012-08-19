@@ -1,0 +1,5 @@
+#surefire
+#Sun Aug 19 14:52:42 CEST 2012
+user.dir=/home/morten/project/git/hzdemo
+localRepository=/home/morten/.m2/repository
+basedir=/home/morten/project/git/hzdemo
